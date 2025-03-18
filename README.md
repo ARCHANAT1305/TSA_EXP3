@@ -45,5 +45,5 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/743d96bf-f574-452c-9e2f-d0a22553dbc5)
 
 
-### RESULT:
-        Thus we have successfully implemented the auto correlation function in python.
+### RESULT:  
+Thus we have successfully implemented the auto correlation function in python.
